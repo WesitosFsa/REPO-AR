@@ -1,0 +1,7 @@
+{
+  "name": "test-ar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
