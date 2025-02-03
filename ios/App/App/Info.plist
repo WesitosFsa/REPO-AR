@@ -4,6 +4,9 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Esta aplicación necesita acceder a la cámara para la funcionalidad de realidad aumentada.</string>
+
 	<key>CFBundleDisplayName</key>
         <string>test-ar</string>
 	<key>CFBundleExecutable</key>
